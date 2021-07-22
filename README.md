@@ -1,10 +1,7 @@
-# Figure.NZ Microsites
+# Figure.NZ Disability Hub
+This is a fork of https://github.com/WikiNewZealand/microsite-template. GitHub will not allow forking via UI of own repositories, so the upstream/fork is handled locally.
 
-This is a Jekyll-based website template used for making Figure.NZ microsites.
-
-Code from this website can be shared. You may not use the fonts.
-
-This is because of licensing requirements. Font files are only licensed to Figure.NZ.
+When making structural changes to the microsite template, these changes will need to be applied locally via pulling upstream main and merging.
 
 ## Structure
 
