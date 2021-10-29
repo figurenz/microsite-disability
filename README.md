@@ -1,7 +1,10 @@
-# Figure.NZ Disability Hub
-This is a fork of https://github.com/WikiNewZealand/microsite-template. GitHub will not allow forking via UI of own repositories, so the upstream/fork is handled locally.
+# Pacific Data Fale o Aotearoa
 
-When making structural changes to the microsite template, these changes will need to be applied locally via pulling upstream main and merging.
+This is a Jekyll-based website made by Figure.NZ to collect and share resources and data about and for pacific people in Aotearoa.
+
+Code and data from this website can be shared. You may not use the fonts, stock images, or illustrations.
+
+This is because of licensing requirements. Font files, stock images, and illustrations are only licensed to Figure.NZ.
 
 ## Structure
 

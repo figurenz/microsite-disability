@@ -146,6 +146,28 @@ pre {
   position: relative;
 }
 
+.wrapper.viz {
+  width: 95vw;
+  max-width: 95%;
+  margin: 0 auto;
+  position: relative;
+  p {
+    margin-left: 0;
+  }
+
+  g {
+    ::-moz-selection {
+      background: chill($dark-pink);
+      color: $white;
+    }
+    
+    ::selection {
+      background: chill($dark-pink);
+      color: $white;
+    }
+  }
+}
+
 ::-moz-selection {
   background: $dark-slate;
   color: $white;
@@ -171,6 +193,9 @@ main {
   min-height: 80vh;
   p {
     max-width: 70ch;
+  }
+  #home {
+    margin-top: -5px;
   }
 }
 
@@ -235,11 +260,12 @@ main {
 /* = = = = = = = = = = warning banner = = = = = = = = = = */
 @import "parts/banner";
 
-/* = = = = = = = = = = FYP media queries = = = = = = = = = = */
-/* = = = = = = = = = = TODO: Consolidate into other media, middle categories broken = = = = = = = = = = */
-@import "fypmedia";
 
 /* = = = = = = = = = = home jumbo section. note: in-page is mostly 2-col = = = = = = = = = = */
 @import "parts/home-jumbo";
+
+/* = = = = = = = = = = FYP media queries = = = = = = = = = = */
+/* = = = = = = = = = = TODO: Consolidate into other media, middle categories broken = = = = = = = = = = */
+@import "fypmedia";
 
 

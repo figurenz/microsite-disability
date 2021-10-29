@@ -2,29 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Name of project - about </title>
-    <meta name="description" content="Find and use stats and data about about and its Council to help you decide in the 2019 Local Elections">
+    <title>Pacific Data Fale o Aotearoa - About </title>
+    <meta name="description" content="Find and use data about and for Pacific people in Aotearoa">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta property="og:site_name" content="Name of project">
-    <meta property="og:title" content="Name of project">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+    <meta property="og:site_name" content="Pacific Data Fale o Aotearoa">
+    <meta property="og:title" content="Pacific Data Fale o Aotearoa">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://localhost:4000/about.html">
-    <meta name="og:description" content=" about">
-    <meta name="description" content=" about">
+    <meta name="og:description" content="Explore data for and about Pacific people in Aotearoa">
+    <meta name="description" content="Explore data for and about Pacific people in Aotearoa">
     <meta name="twitter:site" content="@FigureNZ">
-    <meta name="twitter:title" content="Name of project">
+    <meta name="twitter:title" content="Pacific Data Fale o Aotearoa">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:description" content=" about">
-    <meta name="twitter:image" content="http://localhost:4000/assets/img/tile/about.jpg" >
-    <meta name="apple-mobile-web-app-title" content="Name of project" />
+    <meta name="twitter:description" content="Explore data for and about Pacific people in Aotearoa">
+    <meta name="twitter:image" content="http://localhost:4000/assets/img/layout/person.jpg" >
+    <meta name="apple-mobile-web-app-title" content="Pacific Data Fale o Aotearoa" />
     <link rel="apple-touch-icon" href="/assets/img/favicons/AppleTouch.png" sizes="180x180">
     <link rel="icon" href="/assets/img/favicons/32x32.ico" sizes="32x32" type="image/png">
     <link rel="icon" href="/assets/img/favicons/32x32.ico" sizes="16x16" type="image/png">
     <meta name="theme-color" content="#5461c8">
     <link rel="mask-icon" href="/assets/img/favicons/safari-pinned-tab.svg" color="#5461c8">
-    <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
-<link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+<script src="https://kit.fontawesome.com/05a7d6d446.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <div class="flex-container">
@@ -32,47 +32,93 @@
             <div class="wrapper">
                 <div class="header-flex">
                     <div class="menu-icon-container">
-                        <span class="menu-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
+                        <button id="home-menu-button" class="menu-icon" aria-label="Main menu" aria-expanded="false"><i class="fa fa-bars" aria-hidden="true"></i></button>
                     </div>
-                    <nav class="main-nav">
-    <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
-    <ul>
-        <li><a href="/">Home</a></li>
+                    <nav class="main-nav" aria-label="Main menu">
+    <button aria-label="Close menu" class="menu-icon-close" id="menu-close-button"><i class="fa fa-times" aria-hidden="true"></i></button>
+    <ul aria-label="Main menu items">
+        <li><a id="menu-first" href="/">Home</a></li>
         <li><a href="/about.html">About</a></li>
+        <li><a href="/reports.html">Reports</a></li>
+        <li><a href="/experts.html">Find Experts</a></li>
+        <li><a href="/jobs.html">Employment Explorer</a></li>
         <!--Add more individual pages here-->
-        <li><a><em>Topics</em></a></li>
+        <li><a href="http://localhost:4000#topics"><strong>Topics</strong></a></li>
         
-            <li><a href="https://figure.nz/search/?query=kupenga&ref=mfnz">Ahurea - Māori Culture</a></li>
+            <li><a href="https://figure.nz/search/?query=pacific%20population&ref=pfnz">Population Demographics</a></li>
         
-            <li><a href="https://figure.nz/search/?query=m%C4%81ori%20economy&ref=mfnz">Ōhanga - Economy</a></li>
+            <li><a href="https://figure.nz/search/?query=pacific%20children&ref=pfnz">Children</a></li>
         
-            <li><a href="https://figure.nz/search/?query=m%C4%81ori%20education&ref=mfnz">Mātauranga - Education</a></li>
+            <li><a href="https://figure.nz/search/?query=pacific%20language&ref=pfnz">Pacific Languages</a></li>
         
-            <li><a href="https://figure.nz/search/?query=m%C4%81ori%20employment&ref=mfnz">Mahi - Employment</a></li>
+            <li><a href="https://figure.nz/search/?query=pacific%20migration&ref=pfnz">Migration</a></li>
         
-            <li><a href="https://figure.nz/search/?query=Environment&s=e&ref=mfnz">Te Taiao - Environment</a></li>
         
-            <li><a href="https://figure.nz/search/?query=m%C4%81ori%20health&ref=mfnz">Hauora - Health</a></li>
+        <li><a href="https://figure.nz/search/?query=pacific%20people%20lifestyle&ref=pfnz">Wellbeing</a></li>
         
-            <li><a href="https://figure.nz/search/?query=m%C4%81ori%20housing&ref=mfnz">Kāinga - Housing</a></li>
+        <li><a href="https://figure.nz/search/?query=pacific%20housing&ref=pfnz">Housing</a></li>
         
-            <li><a href="https://figure.nz/search/?query=m%C4%81ori%20population&ref=mfnz">Tāngata - People</a></li>
+        <li><a href="https://figure.nz/search/?query=pacific%20social%20welfare&ref=pfnz">Social Welfare</a></li>
         
-            <li><a href="https://figure.nz/search/?query=m%C4%81ori%20social%20welfare&types=g&ref=mfnz">Oranga Hapori - Social Welfare</a></li>
         
-            <li><a href="https://figure.nz/search/?query=m%C4%81ori%20technology&ref=mfnz">Hangarau  - Technology</a></li>
+        <li><a href="https://figure.nz/search/?query=pacific%20health&ref=pfnz">Health</a></li>
         
-            <li><a href="https://figure.nz/search/?query=m%C4%81ori%20language&types=g&ref=mfnz">Te Reo Māori - Māori Language</a></li>
+        <li><a href="https://figure.nz/search/?query=pacific%20mental%20health&ref=pfnz">Mental Health</a></li>
         
-            <li><a href="https://figure.nz/search/?query=Maori+Tourism&ref=mfnz">Tāpoi - Tourism</a></li>
+        <li><a href="https://figure.nz/search/?query=pacific+disability&ref=pfnz">Disability</a></li>
+        
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20education%20early%20childhood&ref=pfnz">Early Childhood Education</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20education%20primary&ref=pfnz">Primary Education</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20education%20secondary&ref=pfnz">Secondary Education</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20education%20tertiary&ref=pfnz">Tertiary Education</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20education&ref=pfnz">Education</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20training&ref=pfnz">Training and Apprenticeships</a></li>
+        
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20employment&ref=pfnz">Employment</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20income&ref=pfnz">Income</a></li>
+        
+        <li><a href="https://figure.nz/business/">Businesses</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20economy&ref=pfnz">Economy</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20trade&ref=pfnz">Trade</a></li>
+        
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20cook%20islands&ref=pfnz">Cook Islands</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20fiji&ref=pfnz">Fiji</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20kiribatis&ref=pfnz">Kiribati</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20niue&ref=pfnz">Niue</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20samoa&ref=pfnz">Samoa</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20solomon%20islands&ref=pfnz">Solomon Islands</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20tokelau&ref=pfnz">Tokelau</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20tonga&ref=pfnz">Tonga</a></li>
+        
+        <li><a href="https://figure.nz/search/?query=pacific%20tuvalu&ref=pfnz">Tuvalu</a></li>
         
         <!--Add more collection groups here. The code example above will iterate through each post.-->
     </ul>
 </nav>
-                    <p class="logo"><a href="/">Name of project</a></p>
+                    <p class="logo"><a href="/">Pacific Data Fale o Aotearoa</a></p>
                     <!-- remove hidden class from search icon container if you want search -->
-                <div class="search-icon-container hidden">
-                    <span class="search-icon" data-event="search-open-click"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
+                <div class="search-icon-container">
+                    <!-- <span class="topics-icon"> -->
+                        <a class="close-button topic-jump" href="/#topics"><i class="fa fa-chart-bar topic-icon" aria-hidden="true"></i>See data</a>
+                    <!-- </span> -->
                 </div>
                 </div>
             </div>
@@ -122,19 +168,25 @@
     </div>
     <div class="wrapper text">
         <div class="page-content">
-            <h1 id="about-name-of-project">About Name of project</h1>
+            <h1 id="about-pacific-data-fale-o-aotearoa">About Pacific Data Fale o Aotearoa</h1>
 
-<p>Name of project is a free tool to help Māori access data and develop data skills to support their mahi.</p>
+<p>Pacific Data Fale o Aotearoa is a free tool to help Pacific people in Aotearoa access data and develop data skills to support their work.</p>
 
-<p>You’ll find a range of data about Māori and Māori issues, and resources to help you understand and use the data.</p>
+<p>You’ll find a range of data about Pacific people and Pacific issues, and resources to help you understand and use the data.</p>
 
 <p>Can’t find what you’re looking for? Email us at <a href="mailto:help@figure.nz">help@figure.nz</a> and let us know what you need.</p>
 
 <h2 id="who-made-this">Who made this?</h2>
 
-<p>Name of project is brought to you by <a href="https://figure.nz">Figure.NZ</a>. This project is supported by our friends in the Māori Economy team at <a href="https://www.callaghaninnovation.govt.nz/access-experts/maori-economy">Callaghan Innovation</a>. We are very grateful for both their support and their shared passion for Māori wellbeing and economic success.</p>
+<p>Pacific Data Fale o Aotearoa is brought to you by <a href="https://figure.nz">Figure.NZ</a>. This project is supported by our friends at <a href="https://stats.govt.nz">Stats NZ</a>. We are very grateful for both their support and their shared passion for Pacific wellbeing through access to quality data.</p>
 
-<p>A special mihi to Vincent Campbell who gifted us the name of Pātaka Raraunga. Pātaka is the name for a traditional Maori storehouse or cupboard, and Raraunga being the Maori word for Data.</p>
+<p>A special mihi to Dr Ofa Ketu’u, who gifted us the name of ‘Pacific Data Fale o Aotearoa’. Dr Ofa Ketu’u has worked at Statistics NZ for many years, holding managerial roles in different parts of the organisation. She is also a member of the Pacific Data Sovereignty Network. Between 2016-2019, she was Director of Statistics for Pacific Community (SPC) based in Noumea, New Caledonia. She has a very strong knowledge of economic and social statistics for Pacific people and her passion is ensuring Pacific people use statistics and data to inform decisions that affect their lives on a day-to-day basis.</p>
+
+<p>Ofa hails from the Kingdom of Tonga but also considers herself a New Zealand immigrant. She lives in the heart of South Auckland with her whanau. We want to acknowledge Dr Ofa’s contribution to this project but also her lifelong dedication to Pacific people’s data and wellbeing.</p>
+
+<p>We’d also like to acknowledge Afamasanga Jackie Curry, from Samoa. Jackie has been the project lead for the Pacific Data Fale o Aotearoa, and provided invaluable cultural advice and community engagement.</p>
+
+<p>All of the beautiful illustrations you see on Pacific Data Fale o Aotearoa are the work of the team at Bluwave and designer Martin Anae of Samoa and his Pacific digital agency.</p>
 
 <h3 id="figurenz">Figure.NZ</h3>
 
@@ -164,7 +216,7 @@
         <footer class="main-footer">
             <div class="copyright">
                 <p><a href="/about.html">About this project</a></p>
-                <p>2020 © Figure.NZ</p>
+                <p>2021 © Figure.NZ</p>
             </div>
         </footer>
     </div>
@@ -185,7 +237,7 @@
         </div>
     </div>
 </div>
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="/assets/js/main.js"></script>
 <script src="/assets/js/jekyll-search.js"></script>
 <script>
@@ -207,7 +259,7 @@
     })("woopra");
     
     woopra.config({
-        domain: 'maori.figure.nz',
+        domain: 'pacific.figure.nz',
         hide_campaign: true
     });
     woopra.track();
