@@ -1,8 +1,8 @@
 ---
 layout: homepage
 data: pacific
-title: Pacific Data in Aotearoa
-subtitle: A place to find data for and about Pacific people in Aotearoa.
+title: Disability in Aoteroa
+subtitle: A place to find data for and about disabled people in Aotearoa.
 isHome: true
 ---
 
@@ -10,7 +10,5 @@ isHome: true
 
 {% include text-section-intro.html %}
 {% include 2-col-section.html %}
-{% include text-section.html %}
 {% include cards-section.html %}
-{% include 2-col-callout.html %}
 {% include grid-topic-cards.html %}
