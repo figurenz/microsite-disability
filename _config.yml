@@ -6,17 +6,7 @@ analytics: false
 
 # collections are groups of pages/posts that can be displayed in blocks on the homepage and the sidebar menu.
 collections:
-  topics-people:
-    output: true
-  topics-wellbeing:
-    output: true
-  topics-health:
-    output: true
-  topics-education:
-    output: true
-  topics-biz:
-    output: true
-  topics-countries:
+  topics:
     output: true
 
 markdown: kramdown
