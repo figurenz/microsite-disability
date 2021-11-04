@@ -1,8 +1,8 @@
 ---
 layout: content
 data: experts
-title:  Pacific Data Leaders
-subtitle: Find organisations and leaders in the Pacific data space
+title:  Disabled Data Leaders
+subtitle: Find organisations and leaders in the disability data space
 isHome: false
 ---
 
