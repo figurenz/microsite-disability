@@ -1,9 +1,9 @@
 .article-page {
   
-  background-image: $ta-background-image-url, linear-gradient(180deg, rgba(44,60,85,1) 20%, rgba(63,82,111,1) 48%, rgba(84,97,200,1) 100%);
-  background-repeat: repeat;
+  // background-image: $ta-background-image-url, linear-gradient(180deg, rgba(44,60,85,1) 20%, rgba(63,82,111,1) 48%, rgba(84,97,200,1) 100%);
+  // background-repeat: repeat;
   // background: rgb(3,4,9);
-  // background-color: $background-colour;
+  background-color: $background-colour;
   padding-bottom: 4em;
   
   .page-image {
@@ -11,7 +11,7 @@
   }
 
   .page-content {
-    
+    box-shadow: $box-shadow;
     padding: 80px;
     padding-top: 40px;
     padding-bottom: 40px;
