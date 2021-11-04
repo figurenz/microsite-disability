@@ -2,7 +2,7 @@
 layout: content
 data: reports
 title:  Reports about disability in Aoteroa
-subtitle: Read reports written by experts on Disabled people's life in Aotearoa
+subtitle: Read reports written by experts about Disabled people's life in Aotearoa
 isHome: false
 ---
 
@@ -10,8 +10,11 @@ isHome: false
 
 ## Life in Aotearoa
 
-[Census 2018 Pacific Data](https://www.stats.govt.nz/tools/2018-census-ethnic-group-summaries/pacific-peoples)
-Stats NZ, 2018
-Summary of demographic data for Pacific people in Aotearoa.
+[NZ Disability Strategy](https://www.odi.govt.nz/nz-disability-strategy/)
+Office for Disability Issues
+
+[NZ Disability Strategy Annual Report](https://www.odi.govt.nz/nz-disability-strategy/about-the-strategy/new-zealand-disability-strategy-2016-2026/2017-annual-report/)
+Office for Disability Issues, 2020
+Annual progress report on the implementation of the NZ Disability Strategy.
 
 
