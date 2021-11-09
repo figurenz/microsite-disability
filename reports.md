@@ -33,7 +33,7 @@ Annual report for Office for Disability Issues which summarises their work and N
 Office for Disability Issues
 Summary of current work on data issues, including Disability Data and Evidence Working Group progress.
 
-(Convention Coalition Monitoring Group Reports)[https://www.dpa.org.nz/resources/sector-resources/the-convention-disability-rights-in-aotearoa-new-zealand]
+[Convention Coalition Monitoring Group Reports](https://www.dpa.org.nz/resources/sector-resources/the-convention-disability-rights-in-aotearoa-new-zealand)
 Disabled Persons Assembly
 Article 33 of the Disability Convention is about making sure the rights for disabled people outlined in the Disability Convention are actioned. Countries need to do this work and talk to disabled people to find out if they are getting their rights or not. These reports monitor the progress on disabled people's rights.
 
