@@ -3,5 +3,5 @@ layout: content
 data: support
 title: Financial Support and Benefits
 isHome: true
-link: https://figure.nz/search/?query=benefits%20disabled&ref=dfnz
+link: https://figure.nz/search/?query=disability%20benefits&ref=dfnz
 ---

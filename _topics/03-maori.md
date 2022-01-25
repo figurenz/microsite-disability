@@ -3,5 +3,5 @@ layout: content
 data: maori
 title: Disabled Māori
 isHome: true
-link: https://figure.nz/search/?query=maori%20disabled&ref=dfnz
+link: https://figure.nz/search/?query=disabled%20maori&ref=dfnz
 ---
