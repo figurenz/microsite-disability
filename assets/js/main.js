@@ -7,6 +7,10 @@ $(function () {
   const searchClose = $('.search-icon-close')
   const searchInput = $('#search-input')
 
+
+  // Card click whole card
+
+
   // Menu Settings
   
   $('.menu-icon, .menu-icon-close').click(function (e) {

@@ -152,28 +152,30 @@
 </section>
 <section class="white-bg">
   <div class="content categories wrapper">
-  <div class="categories-container">
-    <a aria-label="See topics" class="categories-card post-card" tabindex="-1" href="/#topics">
+  <ul aria-label="Content areas" class="categories-container">
+    <!-- Card starts here -->
+    <li aria-label="See topics" class="categories-card post-card">
       <div class="categories-image">
         <img alt="Explore topics" src="/assets/img/layout/topics.svg" />
       </div>
       <div>
         <h3>Explore topics and charts</h3>
         <p>See interactive charts, data sources, definitions, and how and why data was collected. Take and use charts and data for free.</p>
-        <button class="close-button">See topics</button>
+        <a href="/#topics" class="close-button">See topics</a>
       </div> 
-    </a>  
-    <a aria-label="Find reports" class="categories-card post-card" tabindex="-1" href="/reports">
-        <div class="categories-image">
-          <img alt="Read reports" src="/assets/img/layout/reports.svg" />
-        </div>
-        <div>
-          <h3>Read reports and presentations</h3>
-          <p>Get information that supports your use of data and provides a deeper understanding of disabled people's life in Aotearoa through the lens of data</p>
-          <button class="close-button">Find reports</button>
-        </div>
-    </a>
-  </div>
+  </li>  
+    <!-- Card ends here -->
+    <li aria-label="Find reports" class="categories-card post-card">
+      <div class="categories-image">
+        <img alt="Read reports" src="/assets/img/layout/reports.svg" />
+      </div>
+      <div>
+        <h3>Read reports and presentations</h3>
+        <p>Get information that supports your use of data and provides a deeper understanding of disabled people's life in Aotearoa through the lens of data</p>
+        <a href="/reports" class="close-button">Find reports</a>
+      </div> 
+  </li>  
+  </ul>
 </div>
 </section>
 <!--This adds a section of cards to the page, usually used for the list of main topics for the site. 
