@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Aotearoa Disability Data Hub - An introduction to disability data in Aotearoa </title>
+    <meta name="description" content="Find and use data about and for Pacific people in Aotearoa">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+    <meta property="og:site_name" content="Aotearoa Disability Data Hub">
+    <meta property="og:title" content="Aotearoa Disability Data Hub">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://localhost:4000/intro.html">
+    <meta name="og:description" content="Explore data for and about disabled people in Aotearoa">
+    <meta name="description" content="Explore data for and about disabled people in Aotearoa">
+    <meta name="twitter:site" content="@FigureNZ">
+    <meta name="twitter:title" content="Aotearoa Disability Data Hub">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:description" content="Explore data for and about disabled people in Aotearoa">
+    <meta name="twitter:image" content="http://localhost:4000/assets/img/layout/person.jpg" >
+    <meta name="apple-mobile-web-app-title" content="Aotearoa Disability Data Hub" />
+    <link rel="apple-touch-icon" href="/assets/img/favicons/AppleTouch.png" sizes="180x180">
+    <link rel="icon" href="/assets/img/favicons/32x32.ico" sizes="32x32" type="image/png">
+    <link rel="icon" href="/assets/img/favicons/32x32.ico" sizes="16x16" type="image/png">
+    <meta name="theme-color" content="#5461c8">
+    <link rel="mask-icon" href="/assets/img/favicons/safari-pinned-tab.svg" color="#5461c8">
+    <link rel="stylesheet" href="/assets/css/main.css">
+<script src="https://kit.fontawesome.com/05a7d6d446.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="flex-container">
+        <header class="main-header">
+            <div class="wrapper">
+                <div class="header-flex">
+                    <div class="menu-icon-container">
+                        <button id="home-menu-button" class="menu-icon" aria-label="Main menu" aria-expanded="false"><i class="fa fa-bars" aria-hidden="true"></i></button>
+                    </div>
+                    <nav class="main-nav" aria-label="Main menu">
+    <button aria-label="Close menu" class="menu-icon-close" id="menu-close-button"><i class="fa fa-times" aria-hidden="true"></i></button>
+    <ul aria-label="Main menu items">
+        <li><a id="menu-first" href="/">Home</a></li>
+        <li><a href="/intro.html">Intro to disability data</a></li>
+        <li><a href="/reports.html">Disability Reports</a></li>
+        <li><a href="/about.html">About this site</a></li>
+        <!-- <li><a href="/jobs.html">Employment Explorer</a></li> -->
+        <!--Add more individual pages here-->
+        <li><a href="http://localhost:4000#topics"><strong>Topics</strong></a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disabled%20population&ref=dfnz">Population Demographics</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disabled%20children&ref=dfnz">Children</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disabled%20maori&ref=dfnz">Disabled Māori</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20education&ref=dfnz">Education</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20employment&ref=dfnz">Employment</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20income&ref=dfnz">Income</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20benefits&ref=dfnz">Financial Support and Benefits</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20housing&ref=dfnz">Housing</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20health&ref=dfnz">Health</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disabled%20People%20wellbeing&ref=dfnz">Wellbeing</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20environment&ref=dfnz">Environment</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20technology&ref=dfnz">Technology and access</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20government&ref=dfnz">Government Spending</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20trade&ref=dfnz">Trade linked to disability</a></li>
+        
+            <li><a href="https://figure.nz/search/?query=disability%20industry&ref=dfnz">Industries linked to disability</a></li>
+        
+        <!--Add more collection groups here. The code example above will iterate through each post.-->
+    </ul>
+</nav>
+                    <p class="logo"><a href="/">Aotearoa Disability Data Hub</a></p>
+                    <!-- remove hidden class from search icon container if you want search -->
+                <div class="search-icon-container">
+                    <!-- <span class="topics-icon"> -->
+                        <a class="close-button topic-jump" href="/#topics"><i class="fa fa-chart-bar topic-icon" aria-hidden="true"></i>See data</a>
+                    <!-- </span> -->
+                </div>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            
+                <style>
+    .cover-image {
+        background: url('/assets/img/extra-wide/experts.png') center no-repeat; 
+        background-size: cover;
+    }
+    @media only screen and (max-width: 650px) {
+        .cover-image {
+            background-image: url('/assets/img/tile/experts.png');
+        }
+    }
+    @media only screen and (max-width: 650px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+    .cover-image {
+        background-image: url('/assets/img/banner/experts.png');
+        }
+    }
+    @media only screen and (max-width: 1300px) {
+        .cover-image {
+            background-image: url('/assets/img/banner/experts.png');
+        }
+    }
+    @media only screen and (max-width: 1300px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+    .cover-image {
+        background-image: url('/assets/img/wide/experts.png');
+        }
+    }
+    @media only screen and (max-width: 2600px) {
+        .cover-image {
+            background-image: url('/assets/img/wide/experts.png');
+        }
+    }
+    @media only screen and (max-width: 2600px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+    .cover-image {
+        background-image: url('/assets/img/extra-wide/experts.png');
+        }
+    }
+</style>
+<article class="article-page">
+    <div class="page-image">
+        <div class="cover-image"></div>
+    </div>
+    <div class="wrapper text">
+        <div class="page-content">
+            <h1 id="an-introduction-to-disability-data-in-aotearoa">An introduction to disability data in Aotearoa</h1>
+<h2 id="guest-essay-by-sam-murray-and-phoebe-eden-mann">Guest essay by Sam Murray and Phoebe Eden-Mann</h2>
+
+<h3 id="why-is-disability-data-important">Why is disability data important?</h3>
+<p>Good quality disability data is essential to ensure disabled people can fully realise their rights. Without disability data, we cannot shine a light on the inequality disabled people experience. We also cannot assess how effectively both the Government and the private sector are meeting the needs of disabled people and their whānau.</p>
+
+<p>The government also requires disability data in order to report accurately on the <a href="https://www.odi.govt.nz/disability-action-plan-2/">disability action plans</a> and the <a href="https://www.odi.govt.nz/nz-disability-strategy/">Disability Strategy</a>, as well as to meet its international commitments under the <a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html">Convention of the Rights of Persons with Disabilities</a>, the <a href="https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/monitoring/uncroc/">Convention on the Rights of the Child</a> and the <a href="https://sdgs.un.org/goals">Sustainable Development Goals</a>. All require data on disabled people in order to assess progress towards achieving their actions, objectives, articles and goals.</p>
+
+<h3 id="a-brief-history-of-disability-data-in-aotearoa">A brief history of disability data in Aotearoa</h3>
+<h4 id="emerging-from-the-vacuum-before-1996">Emerging from the vacuum (before 1996)</h4>
+<p>Historically, the government has had little interest in collecting statistics on disabled people. Between 1916 and 1996 no disability-related questions were included in the Census.</p>
+
+<p>By the mid-1980s, the disability movement had grown in strength and the large residential institutions were slowly being phased out. As a result, the government began taking disability statistics more seriously. Between 1986 and 1993, the government commissioned a number of surveys from the research agency BERL and Statistics New Zealand. These surveys gave wildly inconsistent results. Disability prevalence rates varied from 14% to 40%.</p>
+
+<p>With other methods deemed unreliable, people within the disability community began to pressure the government to include disability questions in the Census. Statistics New Zealand was reluctant to do this. Statistics New Zealand thought questions in the Census would be too unreliable without a follow-up survey. Their opinion was based on the experience of statisticians in Canada. However, Statistics New Zealand did not have the funding to carry out a follow-up survey.</p>
+
+<p>To solve this, Statistics New Zealand asked <a href="https://ihc.org.nz/">IHC</a> and <a href="https://www.ccsdisabilityaction.org.nz/">CCS Disability Action</a> to help fund the first follow-up survey. This happened in 1996.</p>
+
+<h4 id="the-disability-survey-era-1996-to-2013">The Disability Survey era (1996 to 2013)</h4>
+<p>The new post-Census surveys were called the Disability Survey. The Disability Survey was actually two different surveys. There was a large private household survey and a smaller survey of people living in residential facilities. Both surveys were used to estimate disability prevalence rates.</p>
+
+<p>Disability surveys were run after the census in 1996, 2001, 2006, and 2013. These surveys were the preeminent source of disability data in New Zealand, although not without their flaws. Statistics we now take for granted, such as one in four New Zealanders being disabled people, came from the disability surveys – that statistic is from 2013, the last year the survey was run.</p>
+
+<h4 id="back-to-the-vacuum-2013-to-2015">Back to the vacuum (2013 to 2015)</h4>
+<p>In 2012, however, the Government cancelled the 2018 Disability Survey without consultation with the disability community. The cancellation was not announced publicly until 2015, surprising the disability community and even some officials within government departments who relied on this data. Instead of running after every census, the survey would now only run after every second census – once every 10 years.</p>
+
+<p>The same year, 2015, the Disability Data and Evidence Working Group was formed with a goal of improving data collection and statistics about disabled people. Some of the working group only found out about the cancellation of the disability survey as part of the background reading for the Group’s work. The Office for Disability Issues and Statistics New Zealand have now <a href="https://www.odi.govt.nz/guidance-and-resources/improving-information-about-disabled-people/">acknowledged this should not have happened and have promised to consult with the disability community in the future.</a></p>
+
+<p>The cancellation was a sobering reminder that despite all the progress, there is a need for constant pressure and vigilance with the Government.</p>
+
+<h3 id="where-are-we-at-now">Where are we at now?</h3>
+<h4 id="the-washington-group-era-2015-to-present">The Washington Group era (2015 to present)</h4>
+
+<p>The change to a 10-year cycle meant the next Disability Survey would not run until 2023. This created a major gap in disability data, impacting the ability of disabled people, agencies, and advocates to access funding and make good decisions.</p>
+
+<p>To help close this gap, Statistics New Zealand added a short international disability question set in their surveys. This question set is called the Washington Group <a href="https://www.washingtongroup-disability.com/question-sets/wg-short-set-on-functioning-wg-ss/">Short Set of Disability Questions (Short Set)</a>. The <a href="https://www.washingtongroup-disability.com/about/about-the-wg/">Washington Group</a> is a United Nations Statistical Commission group made up of officials from a wide range of statistical agencies around the world.</p>
+
+<p>The Short Set was added to a range of government surveys, including:</p>
+<ul>
+  <li>The General Social Survey (From 2016).</li>
+  <li>The Household Labour Force Survey (June of every year from 2017 onwards).</li>
+  <li>Te Kupenga (2018).</li>
+  <li>The 2018 Census.</li>
+  <li>The New Zealand Crime &amp; Victims Survey (2018/19).</li>
+  <li>The Health Survey (2019/20).</li>
+</ul>
+
+<p>The 2020 Household Economic Survey uses a <a href="https://www.washingtongroup-disability.com/question-sets/wg-short-set-on-functioning-%e2%80%93-enhanced-wg-ss-enhanced/">longer Washington Group question set</a>. This survey also uses a seperate Washington Group <a href="https://www.washingtongroup-disability.com/question-sets/wgunicef-child-functioning-module-cfm/">Question Set for children.</a></p>
+
+<p>The use of the Washington Group question sets has greatly increased the availability and range of disability data, especially regularly collected data. The downside is the Short Set collects data from a much smaller and less representative group of disabled people than the disability surveys.</p>
+
+<p>The following disabled people tend to be underrepresented in this data (relative to other disabled people):</p>
+<ul>
+  <li>Disabled people under 65.</li>
+  <li>People with learning disabilities..</li>
+  <li>Neurodiverse people.</li>
+  <li>People with lived experience of mental health conditions.</li>
+</ul>
+
+<p>The smaller number of people identified with the Short Set also makes it difficult to break the data apart to look at groups, such as young disabled people and different ethnic groups.</p>
+
+<p>The overrepresentation of disabled people over 65 in the data also causes issues. This is because:</p>
+<ul>
+  <li>Many disabled people over 65 have acquired their impairment after reaching the age of 65 (The disability rate rapidly increases over the age of 65).</li>
+  <li>Disabled people who acquire their impairment later in life are likely to have more wealth and other assets.</li>
+  <li>In addition, our superannuation is higher than working age benefits and many older people in general own their house.</li>
+</ul>
+
+<p>As a result, disabled people over 65 tend to be better off financially than younger disabled people. For example, in the General Social Survey 2018, disabled people under 65 were almost 2.5 times more likely to report not having enough income than non-disabled people under 65. By comparison, disabled people over 65 were only 1.5 times more likely to report not having enough income than non-disabled people over 65.</p>
+
+<p>While this is true to an extent for non-disabled people too, the experiences of disabled people under 65 tend to get especially hidden in the Short Set Disability Data for two reasons:
+Disabled people over 65 are overrepresented in the Short Set disability data.
+The low percentage of disabled people identified by the Short Set (especially younger disabled people) makes it difficult to accurately break down the data by age.</p>
+
+
+        </div> 
+    </div>        
+</article>
+            
+        
+        </main>
+
+        <footer class="main-footer">
+            <div class="copyright">
+                <p><a href="/about.html">About this project</a></p>
+                <p>2022 © Figure.NZ</p>
+            </div>
+        </footer>
+    </div>
+
+    <div class="search-box">
+    <div class="wrapper">
+        <div class="search-grid">
+        <form class="search-form">
+            <div id="search-container">
+            <label for="search-input">Search for...</label>
+            <input type="text" id="search-input" class="search" placeholder="e.g. line charts" autocomplete="off" data-eventinput="search">
+            </div>
+        </form>
+        <ul id="results-container" class="results-search" data-eventcontainer="search-results-click"></ul>
+        <div class="icon-close-container">
+            <span class="search-icon-close" data-event="search-close-click"><i class="fa fa-times" aria-hidden="true"></i></span>
+        </div>
+        </div>
+    </div>
+</div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="/assets/js/main.js"></script>
+<script src="/assets/js/jekyll-search.js"></script>
+<script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: "/search.json",
+      searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+      noResultsText: 'No results found',
+      fuzzy: false,
+      exclude: ['Welcome']
+    });
+  </script>
+<script src="/assets/js/find-your-place.js"></script>
+    
+</body>
+</html>
