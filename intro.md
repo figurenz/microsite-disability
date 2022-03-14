@@ -28,7 +28,7 @@ The new post-Census follow-up surveys were collectively referred to as the Disab
 Disability surveys run after the Census in 1996, 2001, 2006, and 2013, and although flawed in some aspects, these surveys quickly became the preeminent source of disability data in New Zealand. Information we now take for granted – such as one in four New Zealanders being a person with a disability – came from these disability surveys. That data point is from 2013, the last year the Census follow-up surveys were run.
 
 #### Back to the vacuum (2013 to 2015)
-In 2012, the New Zealand government quietly cancelled the 2018 Disability Survey, without any notification or consultation with the disability community. The cancellation was not announced publicly until 2015, surprising the disability community and even some officials within government departments who relied on this data. Instead of running after every census, the survey would now only run after every second census: once every 10 years.
+In 2012, the New Zealand government quietly cancelled the 2018 Disability Survey, without any notification or consultation with the disability community. The cancellation was not announced publicly until 2015, surprising both the disability community and people within government who relied on this data. Instead of running after every census, the survey would now only run after every second census: once every 10 years.
 
 That same year, the Disability Data and Evidence Working Group was formed with a goal of improving data collection and statistics about disabled people. Some members of the working group only found out about the cancellation of the disability survey as part of the background reading for the Group’s work.
 
