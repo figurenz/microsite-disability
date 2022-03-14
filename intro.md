@@ -60,7 +60,7 @@ The use of Washington Group question sets has greatly increased the availability
 
 The smaller number of people identified with the Short Set also makes it difficult to break the data apart to look at groups, such as ethnic groups and young people with disabilities. The overrepresentation of disabled people over 65 in the data also causes issues. There are several reasons for this.
 
--  Many disabled people over 65 have acquired their impairment after reaching the age of 65, because the disability rate rapidly increases over the age of 65.
+-  Many disabled people over 65 acquired their impairment after reaching the age of 65, because the disability rate rapidly increases over the age of 65.
 - Disabled people who acquire their impairment later in life are likely to have more wealth and other assets.
 - Our superannuation is higher than working age benefits and many older people in general own their house. 
 
