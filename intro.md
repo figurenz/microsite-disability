@@ -39,7 +39,7 @@ The cancellation was a sobering reminder that despite all the progress, there is
 
 The change to a 10-year cycle meant the next Disability Survey would not run until 2023, created a major gap in disability data and impacting the ability of disabled people, agencies, and advocates to access funding and make good decisions.
 
-To help close this gap, StatsNZ added a short international disability question set into their regular household surveys. This question set is called the Washington Group [Short Set of Disability Questions (WG-SS)](https://www.washingtongroup-disability.com/question-sets/wg-short-set-on-functioning-wg-ss/). The [Washington Group](https://www.washingtongroup-disability.com/about/about-the-wg/) is a United Nations Statistical Commission group made up of officials from a wide range of statistical agencies around the world.
+To help close this gap, Stats NZ added a short international disability question set into their regular household surveys. This question set is called the Washington Group [Short Set of Disability Questions (WG-SS)](https://www.washingtongroup-disability.com/question-sets/wg-short-set-on-functioning-wg-ss/). The [Washington Group](https://www.washingtongroup-disability.com/about/about-the-wg/) is a United Nations Statistical Commission group made up of officials from a wide range of statistical agencies around the world.
 
 The WG-SS was added to a range of government surveys, including: 
 - The General Social Survey (From 2016)
