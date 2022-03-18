@@ -5,6 +5,17 @@
   a {
     text-decoration: none;
   }
+  .categories-card.post-card {
+    position: relative;
+    a::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+    }
+  }
   .categories-card {
     border-radius: 3px;
     display: flex;
