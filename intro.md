@@ -32,7 +32,7 @@ In 2012, the New Zealand government quietly cancelled the 2018 Disability Survey
 
 That same year, the Disability Data and Evidence Working Group was formed with a goal of improving data collection and statistics about disabled people. Some members of the working group only found out about the cancellation of the disability survey as part of the background reading for the Group’s work.
 
-The cancellation was a sobering reminder that despite all the progress, there is a need for constant pressure and vigilance when dealing with government. The Office for Disability Issues and Stats NZ have acknowledged that the cancellation [should not have happened](https://www.odi.govt.nz/guidance-and-resources/improving-information-about-disabled-people/) and have promised to consult more closely with the disability community in the future. 
+The cancellation was a sobering reminder that despite all the progress, there is a need for constant pressure and vigilance when dealing with government. The Office for Disability Issues and Stats NZ have acknowledged that [they should have consulted with the disability community](https://www.odi.govt.nz/guidance-and-resources/improving-information-about-disabled-people/) and have promised to do this in the future. 
 
 ### Where are we at now?
 #### The Washington Group era (2015 to present)
