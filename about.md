@@ -11,7 +11,7 @@ isHome: false
 
 You'll find a range of data about Disabled people and disability issues, and resources to help you understand and use the data.
 
-Can't find what you're looking for? Email us at <help@figure.nz> and let us know what you need.
+Can't find what you're looking for or have feedback for us on the site? Email us at <help@figure.nz> and let us know what you need. We especially welcome feedback on accessibility needs.
 
 ## Who made this?
 
