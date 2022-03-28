@@ -67,3 +67,13 @@ The smaller number of people identified with the Short Set also makes it difficu
 As a result, disabled people over 65 tend to be better off financially than younger disabled people. For example, in the General Social Survey 2018, disabled people under 65 were almost 2.5 times more likely to report not having enough income than non-disabled people under 65. By comparison, disabled people over 65 were only 1.5 times more likely to report not having enough income.
 
 In common with non-disabled people, the experiences of disabled people under the age of 65 tend to get especially hidden in the WG-SS data for two further reasons: Disabled people over 65 are overrepresented in the Short Set disability data, and the low percentage of disabled people identified by the WG-SS data (especially younger disabled people) makes it difficult to accurately break down the data any further by age.
+
+### What comes next?
+
+In our view, disability data needs to better reflect the diversity within the disability community. This means working with the disability community to develop questions that ensure a more representative group of disabled people can be included.
+
+We particularly need questions that work for disabled Māori, disabled Pacific peoples, and younger disabled people in general. This may make it harder to compare Aotearoa data with data from overseas, and with our own historical data.
+
+This may make some people hesitant, but in reality, our current comparisons are also misleading. Changing demographics and overrepresentation of older disabled people (age 65+) are causing issues already.
+
+We believe the benefits of developing local disability questions that work for our communities is more important. Otherwise, we risk collecting more data, but failing to provide an accurate picture of the disability community. 
