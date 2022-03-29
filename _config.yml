@@ -1,7 +1,7 @@
 title: Aotearoa Disability Figures
 subtitle: Explore data for and about disabled people in Aotearoa
 description: A site with open data, tools, and resources for disabled people in Aotearoa.
-analytics: false
+analytics: true
 # analytics is a boolean value that determinees whether the woopra file is enabled.
 
 # collections are groups of pages/posts that can be displayed in blocks on the homepage and the sidebar menu.
