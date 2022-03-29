@@ -10,6 +10,7 @@
     <meta property="og:title" content="Aotearoa Disability Figures">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://localhost:4000/intro.html">
+    <meta property="og:image" content="http://localhost:4000/assets/img/layout/open-graph.jpeg" >
     <meta name="og:description" content="Explore data for and about disabled people in Aotearoa">
     <meta name="description" content="Explore data for and about disabled people in Aotearoa">
     <meta name="twitter:site" content="@FigureNZ">
@@ -201,6 +202,16 @@
 
 <p>In common with non-disabled people, the experiences of disabled people under the age of 65 tend to get especially hidden in the WG-SS data for two further reasons: Disabled people over 65 are overrepresented in the Short Set disability data, and the low percentage of disabled people identified by the WG-SS data (especially younger disabled people) makes it difficult to accurately break down the data any further by age.</p>
 
+<h3 id="what-comes-next">What comes next?</h3>
+
+<p>In our view, disability data needs to better reflect the diversity within the disability community. This means working with the disability community to develop questions that ensure a more representative group of disabled people can be included.</p>
+
+<p>We particularly need questions that work for disabled Māori, disabled Pacific peoples, and younger disabled people in general. This may make it harder to compare Aotearoa data with data from overseas, and with our own historical data.</p>
+
+<p>This may make some people hesitant, but in reality, our current comparisons are also misleading. Changing demographics and overrepresentation of older disabled people (age 65+) are causing issues already.</p>
+
+<p>We believe the benefits of developing local disability questions that work for our communities is more important. Otherwise, we risk collecting more data, but failing to provide an accurate picture of the disability community.</p>
+
         </div> 
     </div>        
 </article>
@@ -247,6 +258,20 @@
     });
   </script>
 <script src="/assets/js/find-your-place.js"></script>
+    
+        <script>
+    (function(){
+            var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call","trackForm","trackClick"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
+    })("woopra");
+    
+    woopra.config({
+        domain: 'disability.figure.nz',
+        hide_campaign: true
+    });
+    woopra.track();
+</script>
+
+<script src="/assets/js/woopra-events.js"></script>
     
 </body>
 </html>
