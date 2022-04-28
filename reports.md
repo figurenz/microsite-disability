@@ -1,7 +1,7 @@
 ---
 layout: content
 data: reports
-title:  Reports about disability in Aoteroa
+title:  Reports about disability in Aotearoa
 subtitle: Read reports written by experts about Disabled people's life in Aotearoa
 isHome: false
 ---
