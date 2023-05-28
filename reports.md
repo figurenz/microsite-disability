@@ -63,6 +63,12 @@ _United Nations_
 
 Specific article of the Convention on the Rights of Persons with Disabilities that applies to statistics and data collection.
 
+### [Te Atatū: Developing an indicator of disability](https://swa.govt.nz/publications/Te-Atatu-Developing-an-indicator-of-disability)
+
+_SWA, 2022_
+
+The Social Wellbeing Agency has worked with experts in Disabled People’s Organisations and in government to create a new proxy indicator based on government administrative data that can be used to explore outcomes of disabled people. This report summarises the work to create an indicator that identifies people who are likely to be disabled.
+
 ### [2023 NZ Disability Survey](https://www.stats.govt.nz/consultations/disability-survey-2023-consultation)
 
 _Stats NZ, 2021_
