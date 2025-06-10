@@ -16,38 +16,32 @@ _United Nations_
 
 Convention to promote, protect and ensure the full and equal enjoyment of all human rights and fundamental freedoms by all persons with disabilities, and to promote respect for their inherent dignity. This is the basis of most current disability advocacy.
 
-### [NZ Disability Strategy](https://www.odi.govt.nz/nz-disability-strategy/)
+### [NZ Disability Strategy](https://www.whaikaha.govt.nz/about-us/programmes-strategies-and-studies/programmes-and-strategies/new-zealand-disability-strategy)
 
-_Office for Disability Issues_
+_Whaihaka - Ministry of Disabled People_
 
 The New Zealand Disability Strategy guides the work of government agencies on disability issues from 2016 to 2026.
 It can also be used by any individual or organisation who wants to learn more about, and make the best decisions on, things that are important to disabled people.
 
-### [NZ Disability Action Plan](https://www.odi.govt.nz/disability-action-plan-2/)
+### [NZ Disability Action Plan](https://www.whaikaha.govt.nz/about-us/programmes-strategies-and-studies/programmes-and-strategies/disability-action-plan-2019-2023)
 
-_Office for Disability Issues_
+_Whaihaka - Ministry of Disabled People_
 
 The Disability Action Plan presents priority work programmes and actions developed through a co-design process by government agencies, disabled people and their representative organisations. The work programmes and actions will advance implementation of the United Nations Convention on the Rights of Persons with Disabilities and the New Zealand Disability Strategy 2016-2026.
 
 ## Progress and monitoring of Disability Strategy work
 
-### [NZ Disability Strategy Annual Report](https://www.odi.govt.nz/nz-disability-strategy/about-the-strategy/new-zealand-disability-strategy-2016-2026/2017-annual-report/)
+### [Office for Disability Issues Final Report](https://www.whaikaha.govt.nz/about-us/programmes-strategies-and-studies/programmes-and-strategies/disability-action-plan-2019-2023/dap-reports/report-7-january-to-june-2023)
 
-_Office for Disability Issues, 2020_
+_Office for Disability Issues, 2023_
 
-Annual progress report on the implementation of the NZ Disability Strategy.
+Final report for Office for Disability Issues, summarising NZ's progress on disability rights. On 1 August 2023 the Office for Disability Issues was [integrated](https://www.whaikaha.govt.nz/about-us/office-for-disability-issues) into Whaikaha - Ministry of Disabled People as the Partnerships and Stewardship team.
 
-### [Office for Disability Issues 2020 Annual Report](https://www.odi.govt.nz/about-us/corporate-publications/annual-report-2020/)
-
-_Office for Disability Issues, 2020_
-
-Annual report for Office for Disability Issues which summarises their work and NZ's progress on disability rights.
-
-### [Improving information about disabled people](https://www.odi.govt.nz/guidance-and-resources/improving-information-about-disabled-people/)
+### [Improving information about disabled people](https://web.archive.org/web/20230128023321/https://www.odi.govt.nz/guidance-and-resources/improving-information-about-disabled-people/)
 
 _Office for Disability Issues_
 
-Summary of current work on data issues, including Disability Data and Evidence Working Group progress.
+Summary of current work on data issues as of January 2023, including Disability Data and Evidence Working Group progress. This report was lost during the integration into Whaikaha - Ministry of Disabled People and is preserved here only in archived form.
 
 ### [Convention Coalition Monitoring Group Reports](https://www.dpa.org.nz/resources/sector-resources/the-convention-disability-rights-in-aotearoa-new-zealand)
 
@@ -81,26 +75,26 @@ _International Disability Alliance, 2020_
 
 The goal of the Disability Data Advocacy Toolkit is to contribute to the growing global dialogue on the importance of data on persons with disabilities, providing basic knowledge on data collection, analysis, and use of data for evidenced-based advocacy. The toolkit aims at building the capacity of persons with disabilities and their representative organizations around the world, by offering simple approaches to essential afvocacy skillsets that could benefit all persons with disabilities, particularly those underrepresented and in more impoverished regions. 
 
-### [Introduction to the Washington Group Questions](https://www.odi.govt.nz/guidance-and-resources/an-explanation-of-the-washington-group-short-set-of-questions-on-disability/)
+### [Introduction to the Washington Group Questions](https://www.whaikaha.govt.nz/support-and-services/guidance-and-resources/resources-for-academics/an-explanation-of-the-washington-group-short-set-of-questions-on-disability)
 
-_Office for Disability Issues_
+_Whaihaka - Ministry of Disabled People_
 
 The Washington Group on Disability Statistics comprising over 100 representations (of national statistical offices and international non-governmental and disability organisations) developed the Washington Group Short Set (WGSS) of questions for countries to use in surveys of the general population.
 
 
 ## Life in Aotearoa
 
-### [Updated numbers on disability](https://www.odi.govt.nz/whats-happening/updated-numbers-on-disability-from-stats-nz/)
+### [Updated numbers on disability](https://www.whaikaha.govt.nz/news/news/updated-numbers-on-disability-from-stats-nz/)
 
 _Stats NZ and the Office for Disability Issues, 2020_
 
-A summary of newly released data regarding disability in NZ, collected by Stats NZ as part of the Household Labour Force Survey and Household Economic Survey
+A summary of recently released data regarding disability in NZ, collected by Stats NZ as part of the Household Labour Force Survey and Household Economic Survey.
 
-### [How life is going for the disability community survey results](https://www.odi.govt.nz/guidance-and-resources/how-life-is-going-for-the-disability-co/)
+### [How life is going for the disability community survey results](https://www.whaikaha.govt.nz/news/news/survey-how-life-is-going-for-the-disability-community)
 
-_Office for Disability Issues, 2021_
+_Whaihaka - Ministry of Disabled People_
 
-A weekly survey on the issues and risks being experienced by disabled people in the COVID-19 environment, run by the ODI.
+A weekly survey on the issues and risks being experienced by disabled people in the COVID-19 environment, originally run by the Office for Disability Issues.
 
 ### [The state of wellbeing and equality for disabled people, their families, and whānau](https://www.ccsdisabilityaction.org.nz/assets/resource-files/The-State-of-wellbeing-and-equality-FINAL-ONLINE2.pdf)
 
